@@ -5,7 +5,7 @@
 
 [![Mail](https://img.shields.io/badge/-zhenpeng.ge@qq.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:zhenpeng.ge@qq.com)
 
-My name is Ge Zhenpeng(戈振鹏), and I am a graduate student in computer vision and robotics at UESTC.
+My name is Ge Zhenpeng(戈振鹏), and I am a graduate student at UESTC.
 
 🛠️  Programming
 * heavy user for C, C++, python
