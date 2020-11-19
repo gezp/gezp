@@ -8,5 +8,5 @@
 My name is Ge Zhenpeng(戈振鹏), and I am a graduate student at UESTC.
 
 🛠️  Programming
-* heavy user for C, C++, python
-* casual user for java
+* heavy user of C, C++, python
+* casual user of java
