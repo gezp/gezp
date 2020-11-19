@@ -5,8 +5,8 @@
 
 [![Mail](https://img.shields.io/badge/-zhenpeng.ge@qq.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:zhenpeng.ge@qq.com)
 
-My name is Zhenpeng Ge(戈振鹏), and I am an undergraduate student at UESTC.
+My name is Zhenpeng Ge(戈振鹏), and I am a postgraduate student at UESTC.
 
-* 🛠️  Programming
-  * heavy user for C, C++, python
-  * casual user for java
+🛠️  Programming
+* heavy user for C, C++, python
+* casual user for java
