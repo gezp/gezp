@@ -7,4 +7,6 @@
 
 My name is Zhenpeng Ge(戈振鹏), and I am an undergraduate student at UESTC.
 
-* 🛠️  Programming: heavy user for C/C++/python, casual user for java
+* 🛠️  Programming
+  * heavy user for C, C++, python
+  * casual user for java
