@@ -5,8 +5,4 @@
 
 [![Mail](https://img.shields.io/badge/-zhenpeng.ge@qq.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:zhenpeng.ge@qq.com)
 
-My name is Zhenpeng Ge(戈振鹏), and I am a software engineer at AutoX, an autonomous driving technology company.
-
-🛠️  Programming
-* heavy user of C, C++, python
-* casual user of java
+My name is Zhenpeng Ge(戈振鹏), and I am a software engineer at a autonomous driving technology company.
